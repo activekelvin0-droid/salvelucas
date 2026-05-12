@@ -1,0 +1,10 @@
+{
+  "name": "solenari-clone",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mobile Solenari Care clone with WayMB integration (MB WAY / Multibanco)",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "type": "module"
+}
